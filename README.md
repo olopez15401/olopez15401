@@ -4,6 +4,7 @@
 
 ![Alt Text](./OscarLopez.gif)
 
+
 Languages + Tools I use:
 ---
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -15,6 +16,8 @@ Languages + Tools I use:
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
 ---
+
+
 
 - 👀 I’m interested in Machine Learning and discovering new applications of AI!
 - 🌱 I’m currently learning Data Analytics and Statistics
