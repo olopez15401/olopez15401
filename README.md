@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oscar Lopez!
-- Im an avid self taught Machine Learning Engineer and CS Student earning my wings with a B.S in Computer Science! I love learning new things and tweaking with Software and new tech! I am notorious for distro hopping and breaking things that already worked.
+** `Im an avid self taught Machine Learning Engineer and CS Student earning my wings with a B.S in Computer Science! I love learning new things and tweaking with Software and new tech! I am notorious for distro hopping and breaking things that already worked.`**
 
 ![Alt Text](./OscarLopez.gif)
 
